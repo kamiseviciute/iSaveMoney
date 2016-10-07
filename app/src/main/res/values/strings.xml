@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">iSaveMoney</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_how_much_you_earn">howMuchYouEarn</string>
+    <string name="title_activity_how_much_you_spend">howMuchYouSpend</string>
+    <string name="title_activity_how_much_you_save">howMuchYouSave</string>
+    <string name="title_activity_fixed_monthly_dbadapter">FixedMonthlyDBAdapter</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="title_activity_reset_salary">ResetSalary</string>
+    <string name="title_activity_fixed_weekly_dbadapter">FixedWeeklyDBAdapter</string>
+    <string name="title_activity_variable_salary_dbadapter">VariableSalaryDBAdapter</string>
+    <string name="title_activity_notification">Notification</string>
+    <string name="title_activity_add_monthly_hours_after_asked">AddMonthlyHoursAfterAsked</string>
+    <string name="title_activity_update_worked_hours">updateWorkedHours</string>
+    <string name="title_activity_show_spendings_db">showSpendingsDB</string>
+    <string name="title_activity_show_spendings">showSpendings</string>
+    <string name="title_activity_current_savings">currentSavings</string>
+</resources>
